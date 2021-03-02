@@ -1,0 +1,10 @@
+.main-container{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.component-container{
+  display: flex;
+  flex-flow: row wrap;
+}

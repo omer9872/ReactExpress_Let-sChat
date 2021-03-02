@@ -1,0 +1,14 @@
+.user-container{
+  width: 90%;
+  margin: 5px;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: #6ED686;
+}
+.user-container:hover{
+  background-color: #46B35F;
+}
+p{
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,39 @@
+.message-container {
+  display: flex;
+}
+
+.incoming {
+  max-width: 650px;
+  background-color: #DADADA;
+  padding: 20px;
+  margin: 7px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  align-self: flex-start;
+}
+
+.outgoing {
+  max-width: 650px;
+  background-color: #8BE59B;
+  padding: 20px;
+  margin: 7px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  align-self: flex-end;
+}
+
+.date-text-container {
+  display: flex;
+}
+
+.date-text {
+  color: #717171;
+  margin-right: 5px;
+  font-style: italic;
+}
+
+.message-text-container {
+  word-break: break-all;
+}
